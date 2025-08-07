@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\CodeFirstToNewDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|e:\\phattreinungdungweb-nangcao\\lab\\codefirsttonewdatabase\\codefirsttonewdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|solutionrelative:codefirsttonewdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|e:\\phattreinungdungweb-nangcao\\lab\\codefirsttonewdatabase\\codefirsttonewdatabase\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|solutionrelative:codefirsttonewdatabase\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|e:\\phattreinungdungweb-nangcao\\lab\\codefirsttonewdatabase\\codefirsttonewdatabase\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|solutionrelative:codefirsttonewdatabase\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\CodeFirstToNewDatabase\\codefirsttonewdatabase\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|solutionrelative:codefirsttonewdatabase\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\CodeFirstToNewDatabase\\codefirsttonewdatabase\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|solutionrelative:codefirsttonewdatabase\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\CodeFirstToNewDatabase\\CodeFirstToNewDatabase\\App.config",
+              "RelativeDocumentMoniker": "CodeFirstToNewDatabase\\App.config",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\CodeFirstToNewDatabase\\CodeFirstToNewDatabase\\App.config",
+              "RelativeToolTip": "CodeFirstToNewDatabase\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-07T16:53:36.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BloggingContext.cs",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\CodeFirstToNewDatabase\\CodeFirstToNewDatabase\\BloggingContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstToNewDatabase\\BloggingContext.cs",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\CodeFirstToNewDatabase\\CodeFirstToNewDatabase\\BloggingContext.cs",
+              "RelativeToolTip": "CodeFirstToNewDatabase\\BloggingContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T15:44:30.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\CodeFirstToNewDatabase\\CodeFirstToNewDatabase\\Blog.cs",
+              "RelativeDocumentMoniker": "CodeFirstToNewDatabase\\Blog.cs",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\CodeFirstToNewDatabase\\CodeFirstToNewDatabase\\Blog.cs",
+              "RelativeToolTip": "CodeFirstToNewDatabase\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T15:07:46.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Post.cs",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\CodeFirstToNewDatabase\\CodeFirstToNewDatabase\\Post.cs",
+              "RelativeDocumentMoniker": "CodeFirstToNewDatabase\\Post.cs",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\CodeFirstToNewDatabase\\CodeFirstToNewDatabase\\Post.cs",
+              "RelativeToolTip": "CodeFirstToNewDatabase\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T15:07:09.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\CodeFirstToNewDatabase\\CodeFirstToNewDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstToNewDatabase\\Program.cs",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\CodeFirstToNewDatabase\\CodeFirstToNewDatabase\\Program.cs",
+              "RelativeToolTip": "CodeFirstToNewDatabase\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T15:05:47.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
