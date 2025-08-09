@@ -10,3 +10,15 @@ E:\PhatTreinUngDungWeb-NangCao\Lab\CodeFirstToNewDatabase\CodeFirstToNewDatabase
 E:\PhatTreinUngDungWeb-NangCao\Lab\CodeFirstToNewDatabase\CodeFirstToNewDatabase\obj\Debug\CodeFirs.8A4EAFA9.Up2Date
 E:\PhatTreinUngDungWeb-NangCao\Lab\CodeFirstToNewDatabase\CodeFirstToNewDatabase\obj\Debug\CodeFirstToNewDatabase.exe
 E:\PhatTreinUngDungWeb-NangCao\Lab\CodeFirstToNewDatabase\CodeFirstToNewDatabase\obj\Debug\CodeFirstToNewDatabase.pdb
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToNewDatabase\CodeFirstToNewDatabase\bin\Debug\CodeFirstToNewDatabase.exe.config
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToNewDatabase\CodeFirstToNewDatabase\bin\Debug\CodeFirstToNewDatabase.exe
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToNewDatabase\CodeFirstToNewDatabase\bin\Debug\CodeFirstToNewDatabase.pdb
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToNewDatabase\CodeFirstToNewDatabase\bin\Debug\EntityFramework.dll
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToNewDatabase\CodeFirstToNewDatabase\bin\Debug\EntityFramework.SqlServer.dll
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToNewDatabase\CodeFirstToNewDatabase\bin\Debug\EntityFramework.xml
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToNewDatabase\CodeFirstToNewDatabase\bin\Debug\EntityFramework.SqlServer.xml
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToNewDatabase\CodeFirstToNewDatabase\obj\Debug\CodeFirstToNewDatabase.csproj.AssemblyReference.cache
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToNewDatabase\CodeFirstToNewDatabase\obj\Debug\CodeFirstToNewDatabase.csproj.CoreCompileInputs.cache
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToNewDatabase\CodeFirstToNewDatabase\obj\Debug\CodeFirs.8A4EAFA9.Up2Date
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToNewDatabase\CodeFirstToNewDatabase\obj\Debug\CodeFirstToNewDatabase.exe
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToNewDatabase\CodeFirstToNewDatabase\obj\Debug\CodeFirstToNewDatabase.pdb
