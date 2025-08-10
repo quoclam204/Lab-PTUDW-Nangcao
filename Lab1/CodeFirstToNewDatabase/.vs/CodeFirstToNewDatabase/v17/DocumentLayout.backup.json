@@ -58,8 +58,7 @@
               "RelativeToolTip": "CodeFirstToNewDatabase\\BloggingContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T15:44:30.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T15:44:30.726Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "CodeFirstToNewDatabase\\Blog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T15:07:46.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T15:07:46.293Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "CodeFirstToNewDatabase\\Post.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T15:07:09.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T15:07:09.194Z"
             },
             {
               "$type": "Document",
@@ -93,9 +90,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToNewDatabase\\CodeFirstToNewDatabase\\Program.cs",
               "RelativeDocumentMoniker": "CodeFirstToNewDatabase\\Program.cs",
-              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToNewDatabase\\CodeFirstToNewDatabase\\Program.cs*",
-              "RelativeToolTip": "CodeFirstToNewDatabase\\Program.cs*",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAqwHEAAACDAAAAAAAAAA==",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToNewDatabase\\CodeFirstToNewDatabase\\Program.cs",
+              "RelativeToolTip": "CodeFirstToNewDatabase\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAgwHAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T15:05:47.863Z",
               "EditorCaption": ""

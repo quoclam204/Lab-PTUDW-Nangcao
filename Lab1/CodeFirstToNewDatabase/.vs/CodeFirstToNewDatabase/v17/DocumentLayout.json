@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|solutionrelative:codefirsttonewdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToNewDatabase\\codefirsttonewdatabase\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|solutionrelative:codefirsttonewdatabase\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToNewDatabase\\codefirsttonewdatabase\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|solutionrelative:codefirsttonewdatabase\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToNewDatabase\\codefirsttonewdatabase\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|solutionrelative:codefirsttonewdatabase\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToNewDatabase\\codefirsttonewdatabase\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|solutionrelative:codefirsttonewdatabase\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToNewDatabase\\codefirsttonewdatabase\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594B0BFA-6630-4E61-B638-5666502C1285}|CodeFirstToNewDatabase\\CodeFirstToNewDatabase.csproj|solutionrelative:codefirsttonewdatabase\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "BloggingContext.cs",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToNewDatabase\\CodeFirstToNewDatabase\\BloggingContext.cs",
               "RelativeDocumentMoniker": "CodeFirstToNewDatabase\\BloggingContext.cs",
@@ -76,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Post.cs",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToNewDatabase\\CodeFirstToNewDatabase\\Post.cs",
               "RelativeDocumentMoniker": "CodeFirstToNewDatabase\\Post.cs",
@@ -95,7 +95,7 @@
               "RelativeDocumentMoniker": "CodeFirstToNewDatabase\\Program.cs",
               "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToNewDatabase\\CodeFirstToNewDatabase\\Program.cs",
               "RelativeToolTip": "CodeFirstToNewDatabase\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwCgAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAgwIoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T15:05:47.863Z",
               "EditorCaption": ""

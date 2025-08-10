@@ -10,34 +10,70 @@ namespace CodeFirstToExistingDatabase
     {
         static void Main(string[] args)
         {
+            using (var db = new BloggingContext())
+            {
+                Console.OutputEncoding = System.Text.Encoding.UTF8;
+
+                //var blog = new Blog { Name = "name" };
+                //db.Blogs.Add(blog);
+                //db.SaveChanges();
+
+                db.Database.Delete();   // Drop DB CodeFirstEF_DB
+                db.Database.Create();
+
+                // Thêm mới dữ liệu cho bảng Blog
+                db.Blogs.Add(new Blog { Name = "Văn hóa" });
+                db.Blogs.Add(new Blog { Name = "Xã hội" });
+                db.Blogs.Add(new Blog { Name = "Tự nhiên" });
+                db.Blogs.Add(new Blog { Name = "Kinh tế" });
+
+                db.SaveChanges();
+
+                // Thêm mới dữ liệu cho bảng Post
+                db.Posts.Add(new Post
+                {
+                    Title = "Bóng đá Việt Nam thay huấn luyện viên",
+                    Content = "Ông Nguyễn Hữu Thắng trở thành tân\r\nhuấn luyện viên tuyển Việt Nam",
+                    BlogId = 1
+                });
+                db.Posts.Add(new Post
+                {
+                    Title = "Tiêm phòng vắc xin bệnh dại ",
+                    Content = "Tiêm phòng ngày 25/02/2012",
+                    BlogId = 2
+                });
+                db.Posts.Add(new Post
+                {
+                    Title = "Tin tự nhiên",
+                    Content = "Tin tự nhiên",
+                    BlogId = 2
+                });
+                db.Posts.Add(new Post
+                {
+                    Title = "ABC",
+                    Content = "DEF",
+                    BlogId = 4
+                });
+
+                db.SaveChanges();
+
+                XuatDanhSachPost(db);
+            }
+
         }
 
-        public static string isValidBirthday(string dateStr)
+        // Hàm xuất danh sách các post
+        static void XuatDanhSachPost(BloggingContext db)
         {
-            int count = 0;
-            for (int i = 1; i < dateStr.Length; i++)
+            // Fix for the CS1660 error
+            var posts = db.Posts.Include("Blog").ToList();
+            Console.WriteLine("Danh sách các Post:");
+            Console.WriteLine("----------------------------------------------------------------------------------------------------");
+            foreach (var post in posts)
             {
-                if (dateStr[i] == '/')
-                {
-                    count++;
-                }
+                Console.WriteLine($"\tPostId: {post.PostId}, Title: {post.Title}, Content: {post.Content}, Blog: {post.Blog?.Name}");
             }
-            if (count != 2)
-            {
-                return "Ngày không hợp lệ - Sai định dạng";
-            }
-
-            // Giả lập kiểm tra đơn giản
-            if (dateStr == "29/02/2007")
-            {
-                return "Ngày không hợp lệ - Năm không nhuận";
-            }
-            if (dateStr == "10/10/2008")
-            {
-                return "Ngày không hợp lệ - Chưa đủ 18 tuổi";
-            }
-
-            return "Ngày sinh hợp lệ";
+            Console.WriteLine("----------------------------------------------------------------------------------------------------");
         }
     }
 }

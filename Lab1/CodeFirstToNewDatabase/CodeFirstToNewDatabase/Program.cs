@@ -92,6 +92,38 @@ namespace CodeFirstToNewDatabase
                 // Hiển thị lại danh sách các Blog và Post sau khi xóa
                 XuatDanhSachPost(db);
 
+                // Cập nhật nội dung cho PostId = 3 thay Title là "Tin không tự nhiên".
+                var updatePost = db.Posts.Find(3); // Tìm bài viết có PostId = 3
+                if (updatePost != null)
+                {
+                    updatePost.Title = "Tin không tự nhiên";
+                    db.SaveChanges();
+                }
+                else
+                {
+                    Console.WriteLine("\nKhông tìm thấy bài viết có PostId = 3.");
+                }
+                db.SaveChanges();
+                XuatDanhSachPost(db);
+
+                // Truy vấn toàn bộ Blog và các Post liên quan
+                var blogs = db.Blogs.Include(b => b.Posts).ToList();
+
+                foreach (var blog1 in blogs)
+                {
+                    Console.WriteLine($"Blog: {blog1.Name}");
+                    if (blog1.Posts != null && blog1.Posts.Count > 0)
+                    {
+                        foreach (var post in blog1.Posts)
+                        {
+                            Console.WriteLine($"\tPostId: {post.PostId}, Title: {post.Title}, Content: {post.Content}");
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("\tKhông có bài viết nào.");
+                    }
+                }
 
 
                 // Dừng chương trình và đợi người dùng nhấn Enter

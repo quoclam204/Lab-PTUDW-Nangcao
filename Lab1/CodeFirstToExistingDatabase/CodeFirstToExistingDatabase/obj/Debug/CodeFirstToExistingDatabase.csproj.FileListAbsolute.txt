@@ -1,0 +1,12 @@
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToExistingDatabase\bin\Debug\CodeFirstToExistingDatabase.exe.config
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToExistingDatabase\bin\Debug\CodeFirstToExistingDatabase.exe
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToExistingDatabase\bin\Debug\CodeFirstToExistingDatabase.pdb
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToExistingDatabase\bin\Debug\EntityFramework.dll
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToExistingDatabase\bin\Debug\EntityFramework.SqlServer.dll
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToExistingDatabase\bin\Debug\EntityFramework.xml
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToExistingDatabase\bin\Debug\EntityFramework.SqlServer.xml
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToExistingDatabase\obj\Debug\CodeFirstToExistingDatabase.csproj.AssemblyReference.cache
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToExistingDatabase\obj\Debug\CodeFirstToExistingDatabase.csproj.CoreCompileInputs.cache
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToExistingDatabase\obj\Debug\CodeFirs.DC10D5C7.Up2Date
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToExistingDatabase\obj\Debug\CodeFirstToExistingDatabase.exe
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToExistingDatabase\obj\Debug\CodeFirstToExistingDatabase.pdb
