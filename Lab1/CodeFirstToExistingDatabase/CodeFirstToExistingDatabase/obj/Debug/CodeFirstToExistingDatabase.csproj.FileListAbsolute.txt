@@ -10,3 +10,5 @@ E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToE
 E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToExistingDatabase\obj\Debug\CodeFirs.DC10D5C7.Up2Date
 E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToExistingDatabase\obj\Debug\CodeFirstToExistingDatabase.exe
 E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToExistingDatabase\obj\Debug\CodeFirstToExistingDatabase.pdb
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToExistingDatabase\bin\Debug\(localDB)MSSQLLocalDB.mdf
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\CodeFirstToExistingDatabase\CodeFirstToExistingDatabase\bin\Debug\(localDB)MSSQLLocalDB_log.ldf

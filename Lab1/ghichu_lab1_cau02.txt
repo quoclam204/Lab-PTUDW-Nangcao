@@ -1,0 +1,35 @@
+Tools -> Nuget Package Manager -> Package Manager Console
+
+Cài thư viện Entity Framework: Install-Package EntityFramework
+
+Microsoft.EntityFrameworkCore → Thư viện EF Core chính, giúp làm việc với database bằng C#.
+
+Microsoft.EntityFrameworkCore.SqlServer → Thành phần giúp EF Core kết nối và làm việc với SQL Server.
+
+Microsoft.EntityFrameworkCore.Tools → Bộ công cụ hỗ trợ lệnh như Scaffold-DbContext, Add-Migration, Update-Database.
+
+Lệnh này là lệnh scaffold trong Entity Framework để tự động sinh (gieo) mã nguồn C# từ một database có sẵn trong SQL Server:
+Scaffold-DbContext "Data Source=DESKTOP-E3V9138\SQLEXPRESS;Initial Catalog=ef_lab1;Integrated Security=True" System.Data.SqlClient -OutputDir Models -Force
+
+Thay .\SQLEXPRESS bằng đúng tên server SQL của bạn.
+Sau khi chạy, thư mục Models sẽ có:
+
+Blog.cs
+
+Post.cs
+
+BloggingContext.cs\
+
+Scaffold-DbContext "<chuỗi_kết_nối>" <nhà_cung_cấp_CSDL> -OutputDir <thư_mục_lưu>
+
+CÂU C: Thêm bảng Student và gieo lại mã nguồn
+Scaffold-DbContext "Data Source=.\SQLEXPRESS;Initial Catalog=ef_lab1;Integrated Security=True" System.Data.SqlClient -OutputDir Models -Force
+
+*Update model trong Visual Studio
+B1: Mở BloggingModel.edmx (click double chuột vào BloggingModel.edmx)
+
+B2: Chuột phải vùng trống → Update Model from Database…
+
+b3: Tab Add → tick bảng Student → Finish
+
+b4: Build lại solution.
