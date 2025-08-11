@@ -1,0 +1,12 @@
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\ModelFirst\ModelFirst\bin\Debug\ModelFirst.exe.config
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\ModelFirst\ModelFirst\bin\Debug\ModelFirst.exe
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\ModelFirst\ModelFirst\bin\Debug\ModelFirst.pdb
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\ModelFirst\ModelFirst\bin\Debug\EntityFramework.dll
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\ModelFirst\ModelFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\ModelFirst\ModelFirst\bin\Debug\EntityFramework.xml
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\ModelFirst\ModelFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\ModelFirst\ModelFirst\obj\Debug\ModelFirst.csproj.AssemblyReference.cache
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\ModelFirst\ModelFirst\obj\Debug\ModelFirst.csproj.CoreCompileInputs.cache
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\ModelFirst\ModelFirst\obj\Debug\ModelFirst.csproj.Up2Date
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\ModelFirst\ModelFirst\obj\Debug\ModelFirst.exe
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\ModelFirst\ModelFirst\obj\Debug\ModelFirst.pdb

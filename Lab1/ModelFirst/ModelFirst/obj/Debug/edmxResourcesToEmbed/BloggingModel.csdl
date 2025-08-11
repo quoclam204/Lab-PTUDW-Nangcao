@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="BloggingModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="BloggingModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Blogs" EntityType="BloggingModel.Blog" />
+    <EntitySet Name="Posts" EntityType="BloggingModel.Post" />
+    <AssociationSet Name="BlogPost" Association="BloggingModel.BlogPost">
+      <End Role="Blog" EntitySet="Blogs" />
+      <End Role="Post" EntitySet="Posts" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Blog">
+    <Key>
+      <PropertyRef Name="BlogId" />
+    </Key>
+    <Property Name="BlogId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="100" />
+    <NavigationProperty Name="Posts" Relationship="BloggingModel.BlogPost" FromRole="Blog" ToRole="Post" />
+  </EntityType>
+  <EntityType Name="Post">
+    <Key>
+      <PropertyRef Name="PostId" />
+    </Key>
+    <Property Name="PostId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="200" />
+    <Property Name="Content" Type="String" Nullable="true" />
+    <NavigationProperty Name="Blog" Relationship="BloggingModel.BlogPost" FromRole="Post" ToRole="Blog" />
+    <Property Name="BlogBlogId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="BlogPost">
+    <End Type="BloggingModel.Blog" Role="Blog" Multiplicity="1" />
+    <End Type="BloggingModel.Post" Role="Post" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Blog">
+        <PropertyRef Name="BlogId" />
+      </Principal>
+      <Dependent Role="Post">
+        <PropertyRef Name="BlogBlogId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

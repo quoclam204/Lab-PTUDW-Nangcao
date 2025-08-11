@@ -68,6 +68,13 @@ INSERT INTO Post (Title, Content, BlogId) VALUES
 (N'Tin tự nhiên', N'Tin tự nhiên', 2),
 (N'ABC', N'DEF', 4);
 
+-- c. Thêm bảng Student và gieo lại mã nguồn
+CREATE TABLE Student (
+    StudentID INT IDENTITY(1,1) PRIMARY KEY,
+    StudentName NVARCHAR(50),
+    StudentAddress NVARCHAR(50)
+);
+
 SELECT *
 FROM Blog
 
