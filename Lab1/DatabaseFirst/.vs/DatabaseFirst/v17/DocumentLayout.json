@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\DatabaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C988672-CEC7-4C98-884D-1BF23F59B6A8}|DatabaseFirst\\DatabaseFirst.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab1\\databasefirst\\databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C988672-CEC7-4C98-884D-1BF23F59B6A8}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C988672-CEC7-4C98-884D-1BF23F59B6A8}|DatabaseFirst\\DatabaseFirst.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab1\\databasefirst\\databasefirst\\bloggingmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5C988672-CEC7-4C98-884D-1BF23F59B6A8}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\bloggingmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C988672-CEC7-4C98-884D-1BF23F59B6A8}|DatabaseFirst\\DatabaseFirst.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab1\\databasefirst\\databasefirst\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5C988672-CEC7-4C98-884D-1BF23F59B6A8}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\DatabaseFirst\\DatabaseFirst\\App.config",
+              "RelativeDocumentMoniker": "DatabaseFirst\\App.config",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\DatabaseFirst\\DatabaseFirst\\App.config",
+              "RelativeToolTip": "DatabaseFirst\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-12T01:06:06.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BloggingModel.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\DatabaseFirst\\DatabaseFirst\\BloggingModel.edmx",
+              "RelativeDocumentMoniker": "DatabaseFirst\\BloggingModel.edmx",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\DatabaseFirst\\DatabaseFirst\\BloggingModel.edmx [Diagram1]",
+              "RelativeToolTip": "DatabaseFirst\\BloggingModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-08-12T01:05:00.797Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\DatabaseFirst\\DatabaseFirst\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Program.cs",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\DatabaseFirst\\DatabaseFirst\\Program.cs",
+              "RelativeToolTip": "DatabaseFirst\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwC0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:55:08.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

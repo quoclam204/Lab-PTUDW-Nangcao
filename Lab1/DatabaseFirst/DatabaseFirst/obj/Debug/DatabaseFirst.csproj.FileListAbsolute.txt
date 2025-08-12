@@ -1,0 +1,12 @@
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.exe.config
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.exe
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.pdb
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.AssemblyReference.cache
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.CoreCompileInputs.cache
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.exe
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.pdb
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.dll
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.xml
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab1\DatabaseFirst\DatabaseFirst\obj\Debug\Database.FA409B03.Up2Date
