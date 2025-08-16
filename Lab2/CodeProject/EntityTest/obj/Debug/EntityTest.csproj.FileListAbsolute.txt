@@ -1,0 +1,15 @@
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\bin\Debug\EntityTest.exe.config
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\bin\Debug\EntityTest.exe
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\bin\Debug\EntityTest.pdb
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\bin\Debug\EntityFramework.dll
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\bin\Debug\EntityFramework.SqlServer.dll
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\bin\Debug\EntityModel.dll
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\bin\Debug\EntityModel.pdb
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\bin\Debug\EntityModel.dll.config
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\bin\Debug\EntityFramework.xml
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\bin\Debug\EntityFramework.SqlServer.xml
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\obj\Debug\EntityTest.csproj.AssemblyReference.cache
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\obj\Debug\EntityTest.csproj.CoreCompileInputs.cache
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\obj\Debug\EntityTest.csproj.Up2Date
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\obj\Debug\EntityTest.exe
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\obj\Debug\EntityTest.pdb

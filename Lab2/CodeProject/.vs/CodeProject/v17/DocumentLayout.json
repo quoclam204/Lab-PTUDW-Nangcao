@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48FACB-F2B3-40B5-A8E8-62CCF6A32FB1}|EntityTest\\EntityTest.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab2\\codeproject\\entitytest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5A48FACB-F2B3-40B5-A8E8-62CCF6A32FB1}|EntityTest\\EntityTest.csproj|solutionrelative:entitytest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273FB590-6859-4DC0-9CF1-D6E8467E77DD}|EntityModel\\EntityModel.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab2\\codeproject\\entitymodel\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{273FB590-6859-4DC0-9CF1-D6E8467E77DD}|EntityModel\\EntityModel.csproj|solutionrelative:entitymodel\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A48FACB-F2B3-40B5-A8E8-62CCF6A32FB1}|EntityTest\\EntityTest.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab2\\codeproject\\entitytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A48FACB-F2B3-40B5-A8E8-62CCF6A32FB1}|EntityTest\\EntityTest.csproj|solutionrelative:entitytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273FB590-6859-4DC0-9CF1-D6E8467E77DD}|EntityModel\\EntityModel.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab2\\codeproject\\entitymodel\\bloggingmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273FB590-6859-4DC0-9CF1-D6E8467E77DD}|EntityModel\\EntityModel.csproj|solutionrelative:entitymodel\\bloggingmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273FB590-6859-4DC0-9CF1-D6E8467E77DD}|EntityModel\\EntityModel.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab2\\codeproject\\entitymodel\\bloggingmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{273FB590-6859-4DC0-9CF1-D6E8467E77DD}|EntityModel\\EntityModel.csproj|solutionrelative:entitymodel\\bloggingmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityTest\\App.config",
+              "RelativeDocumentMoniker": "EntityTest\\App.config",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityTest\\App.config",
+              "RelativeToolTip": "EntityTest\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-16T15:25:15.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityModel\\App.config",
+              "RelativeDocumentMoniker": "EntityModel\\App.config",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityModel\\App.config",
+              "RelativeToolTip": "EntityModel\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-16T15:23:41.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BloggingModel.Context.cs",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityModel\\BloggingModel.Context.cs",
+              "RelativeDocumentMoniker": "EntityModel\\BloggingModel.Context.cs",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityModel\\BloggingModel.Context.cs",
+              "RelativeToolTip": "EntityModel\\BloggingModel.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:15:10.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityTest\\Program.cs",
+              "RelativeDocumentMoniker": "EntityTest\\Program.cs",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityTest\\Program.cs",
+              "RelativeToolTip": "EntityTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:10:06.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BloggingModel.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityModel\\BloggingModel.edmx",
+              "RelativeDocumentMoniker": "EntityModel\\BloggingModel.edmx",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityModel\\BloggingModel.edmx [Diagram1]",
+              "RelativeToolTip": "EntityModel\\BloggingModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-08-16T15:06:00.425Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
