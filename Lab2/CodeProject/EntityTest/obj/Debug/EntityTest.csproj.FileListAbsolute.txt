@@ -13,3 +13,5 @@ E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\obj\Debug\EntityT
 E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\obj\Debug\EntityTest.csproj.Up2Date
 E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\obj\Debug\EntityTest.exe
 E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\obj\Debug\EntityTest.pdb
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\bin\Debug\System.Linq.Dynamic.dll
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityTest\obj\Debug\EntityTest.exe.config

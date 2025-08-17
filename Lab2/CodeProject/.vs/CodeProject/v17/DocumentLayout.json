@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A48FACB-F2B3-40B5-A8E8-62CCF6A32FB1}|EntityTest\\EntityTest.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab2\\codeproject\\entitytest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5A48FACB-F2B3-40B5-A8E8-62CCF6A32FB1}|EntityTest\\EntityTest.csproj|solutionrelative:entitytest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{834BD309-A1B4-4F35-B696-F76796DF2390}|Application\\Application.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab2\\codeproject\\application\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{834BD309-A1B4-4F35-B696-F76796DF2390}|Application\\Application.csproj|solutionrelative:application\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{273FB590-6859-4DC0-9CF1-D6E8467E77DD}|EntityModel\\EntityModel.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab2\\codeproject\\entitymodel\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{273FB590-6859-4DC0-9CF1-D6E8467E77DD}|EntityModel\\EntityModel.csproj|solutionrelative:entitymodel\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{273FB590-6859-4DC0-9CF1-D6E8467E77DD}|EntityModel\\EntityModel.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\entitymodel\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273FB590-6859-4DC0-9CF1-D6E8467E77DD}|EntityModel\\EntityModel.csproj|solutionrelative:entitymodel\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A48FACB-F2B3-40B5-A8E8-62CCF6A32FB1}|EntityTest\\EntityTest.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab2\\codeproject\\entitytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A48FACB-F2B3-40B5-A8E8-62CCF6A32FB1}|EntityTest\\EntityTest.csproj|solutionrelative:entitytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3EECC57-A321-42E1-B01D-DD108D4ADFD3}|EntityController\\EntityController.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\entitycontroller\\core\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EECC57-A321-42E1-B01D-DD108D4ADFD3}|EntityController\\EntityController.csproj|solutionrelative:entitycontroller\\core\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{273FB590-6859-4DC0-9CF1-D6E8467E77DD}|EntityModel\\EntityModel.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab2\\codeproject\\entitymodel\\bloggingmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{273FB590-6859-4DC0-9CF1-D6E8467E77DD}|EntityModel\\EntityModel.csproj|solutionrelative:entitymodel\\bloggingmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{834BD309-A1B4-4F35-B696-F76796DF2390}|Application\\Application.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\application\\addblog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834BD309-A1B4-4F35-B696-F76796DF2390}|Application\\Application.csproj|solutionrelative:application\\addblog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{273FB590-6859-4DC0-9CF1-D6E8467E77DD}|EntityModel\\EntityModel.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab2\\codeproject\\entitymodel\\bloggingmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{273FB590-6859-4DC0-9CF1-D6E8467E77DD}|EntityModel\\EntityModel.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\entitymodel\\bloggingmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{273FB590-6859-4DC0-9CF1-D6E8467E77DD}|EntityModel\\EntityModel.csproj|solutionrelative:entitymodel\\bloggingmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -30,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityModel\\Blog.cs",
+              "RelativeDocumentMoniker": "EntityModel\\Blog.cs",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityModel\\Blog.cs",
+              "RelativeToolTip": "EntityModel\\Blog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:51:27.535Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -55,54 +68,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.config",
-              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityTest\\App.config",
-              "RelativeDocumentMoniker": "EntityTest\\App.config",
-              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityTest\\App.config",
-              "RelativeToolTip": "EntityTest\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\Application\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Application\\Views\\Web.config",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\Application\\Views\\Web.config",
+              "RelativeToolTip": "Application\\Views\\Web.config",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-08-16T15:25:15.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.config",
-              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityModel\\App.config",
-              "RelativeDocumentMoniker": "EntityModel\\App.config",
-              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityModel\\App.config",
-              "RelativeToolTip": "EntityModel\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-08-16T15:23:41.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BloggingModel.Context.cs",
-              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityModel\\BloggingModel.Context.cs",
-              "RelativeDocumentMoniker": "EntityModel\\BloggingModel.Context.cs",
-              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityModel\\BloggingModel.Context.cs",
-              "RelativeToolTip": "EntityModel\\BloggingModel.Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T15:15:10.837Z",
+              "WhenOpened": "2025-08-17T08:10:44.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityTest\\Program.cs",
-              "RelativeDocumentMoniker": "EntityTest\\Program.cs",
-              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityTest\\Program.cs",
-              "RelativeToolTip": "EntityTest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityController\\Core\\BlogController.cs",
+              "RelativeDocumentMoniker": "EntityController\\Core\\BlogController.cs",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityController\\Core\\BlogController.cs",
+              "RelativeToolTip": "EntityController\\Core\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T15:10:06.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T08:01:53.932Z"
             },
             {
               "$type": "Document",
@@ -113,8 +99,19 @@
               "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\EntityModel\\BloggingModel.edmx [Diagram1]",
               "RelativeToolTip": "EntityModel\\BloggingModel.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-08-16T15:06:00.425Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2025-08-17T07:53:25.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddBlog.aspx.cs",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\Application\\AddBlog.aspx.cs",
+              "RelativeDocumentMoniker": "Application\\AddBlog.aspx.cs",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\Application\\AddBlog.aspx.cs",
+              "RelativeToolTip": "Application\\AddBlog.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:39:07.286Z"
             }
           ]
         }
