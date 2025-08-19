@@ -1,0 +1,31 @@
+﻿@model IEnumerable<EntityModel.Blog>
+@{
+    ViewBag.Title = "Blogs";
+}
+<h2>Blogs</h2>
+
+@foreach (var b in Model)
+{
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <strong>@b.BlogId - @b.Name</strong>
+            (@Html.ActionLink("Chi tiết", "Get", "Blog", new { id = b.BlogId }, null))
+        </div>
+        <div class="panel-body">
+            @if (b.Posts != null && b.Posts.Any())
+            {
+                <ul>
+                    @foreach (var p in b.Posts)
+                    {
+                        <li>
+                            @p.PostId - @p.Title
+                            (@Html.ActionLink("Xem post", "Get", "Post", new { id = p.PostId }, null))
+                        </li>
+                    }
+                </ul>
+            }
+            else
+            { <em>Chưa có bài viết</em>}
+        </div>
+    </div>
+}

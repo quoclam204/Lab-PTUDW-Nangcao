@@ -1,0 +1,13 @@
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityModel\bin\Debug\EntityModel.dll.config
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityModel\bin\Debug\EntityModel.dll
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityModel\bin\Debug\EntityModel.pdb
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityModel\bin\Debug\EntityFramework.dll
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityModel\bin\Debug\System.Linq.Dynamic.dll
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityModel\bin\Debug\EntityFramework.xml
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityModel\obj\Debug\EntityModel.csproj.AssemblyReference.cache
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityModel\obj\Debug\EntityModel.csproj.CoreCompileInputs.cache
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityModel\obj\Debug\EntityMo.CD53FDE0.Up2Date
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityModel\obj\Debug\EntityModel.dll
+E:\PhatTreinUngDungWeb-NangCao\Lab\Lab2\CodeProject\EntityModel\obj\Debug\EntityModel.pdb

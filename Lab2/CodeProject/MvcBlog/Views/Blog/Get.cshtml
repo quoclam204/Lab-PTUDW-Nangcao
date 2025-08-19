@@ -1,0 +1,14 @@
+﻿@model EntityModel.Blog
+@{
+    ViewBag.Title = "Blog " + Model.BlogId;
+}
+<p>@Html.ActionLink("← Quay lại danh sách", "Index")</p>
+<h2>@Model.Name (@Model.BlogId)</h2>
+
+<h3>Bài viết</h3>
+<ul>
+    @foreach (var p in Model.Posts)
+    {
+        <li>@p.PostId - @p.Title (@Html.ActionLink("Xem", "Get", "Post", new { id = p.PostId }, null))</li>
+    }
+</ul>
