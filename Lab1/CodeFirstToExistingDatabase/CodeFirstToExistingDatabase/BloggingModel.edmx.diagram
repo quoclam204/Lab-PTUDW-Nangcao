@@ -6,7 +6,7 @@
     <edmx:Diagrams>
       <Diagram DiagramId="dce7043bcedf469992e2b6ad0a493abe" Name="Diagram1">
         <EntityTypeShape EntityType="ef_lab1Model.Blog" Width="1.5" PointX="1.25" PointY="1" IsExpanded="true" />
-        <EntityTypeShape EntityType="ef_lab1Model.Post" Width="1.5" PointX="4.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="ef_lab1Model.Post" Width="1.5" PointX="4.5" PointY="1.125" IsExpanded="true" />
         <AssociationConnector Association="ef_lab1Model.FK_Post_Blog" ManuallyRouted="false" />
         <EntityTypeShape EntityType="ef_lab1Model.Student" Width="1.5" PointX="0.75" PointY="3.75" />
       </Diagram>

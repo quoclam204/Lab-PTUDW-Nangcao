@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78E863B3-1B61-4BB6-B769-C3827DDE0FAF}|MvcBlog\\MvcBlog.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab2\\codeproject\\mvcblog\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{78E863B3-1B61-4BB6-B769-C3827DDE0FAF}|MvcBlog\\MvcBlog.csproj|solutionrelative:mvcblog\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{78E863B3-1B61-4BB6-B769-C3827DDE0FAF}|MvcBlog\\MvcBlog.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\mvcblog\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E863B3-1B61-4BB6-B769-C3827DDE0FAF}|MvcBlog\\MvcBlog.csproj|solutionrelative:mvcblog\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78E863B3-1B61-4BB6-B769-C3827DDE0FAF}|MvcBlog\\MvcBlog.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\mvcblog\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78E863B3-1B61-4BB6-B769-C3827DDE0FAF}|MvcBlog\\MvcBlog.csproj|solutionrelative:mvcblog\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78E863B3-1B61-4BB6-B769-C3827DDE0FAF}|MvcBlog\\MvcBlog.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\mvcblog\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78E863B3-1B61-4BB6-B769-C3827DDE0FAF}|MvcBlog\\MvcBlog.csproj|solutionrelative:mvcblog\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78E863B3-1B61-4BB6-B769-C3827DDE0FAF}|MvcBlog\\MvcBlog.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\mvcblog\\views\\post\\get.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -67,32 +63,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Web.config",
-              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\MvcBlog\\Web.config",
-              "RelativeDocumentMoniker": "MvcBlog\\Web.config",
-              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\MvcBlog\\Web.config",
-              "RelativeToolTip": "MvcBlog\\Web.config",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-08-19T02:15:56.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\MvcBlog\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "MvcBlog\\App_Start\\RouteConfig.cs",
               "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\MvcBlog\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "MvcBlog\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T02:12:35.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Get.cshtml",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\MvcBlog\\Views\\Post\\Get.cshtml",
               "RelativeDocumentMoniker": "MvcBlog\\Views\\Post\\Get.cshtml",
@@ -100,12 +83,11 @@
               "RelativeToolTip": "MvcBlog\\Views\\Post\\Get.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T02:12:11.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T02:12:11.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\MvcBlog\\Views\\Post\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcBlog\\Views\\Post\\Index.cshtml",
@@ -113,12 +95,11 @@
               "RelativeToolTip": "MvcBlog\\Views\\Post\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T02:11:51.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T02:11:51.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Get.cshtml",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\MvcBlog\\Views\\Blog\\Get.cshtml",
               "RelativeDocumentMoniker": "MvcBlog\\Views\\Blog\\Get.cshtml",
@@ -126,12 +107,11 @@
               "RelativeToolTip": "MvcBlog\\Views\\Blog\\Get.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T02:11:02.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T02:11:02.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\MvcBlog\\Views\\Blog\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcBlog\\Views\\Blog\\Index.cshtml",
@@ -139,12 +119,11 @@
               "RelativeToolTip": "MvcBlog\\Views\\Blog\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-19T02:09:46.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T02:09:46.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "PostController.cs",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab2\\CodeProject\\MvcBlog\\Controllers\\PostController.cs",
               "RelativeDocumentMoniker": "MvcBlog\\Controllers\\PostController.cs",
@@ -152,8 +131,7 @@
               "RelativeToolTip": "MvcBlog\\Controllers\\PostController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T02:05:49.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T02:05:49.397Z"
             },
             {
               "$type": "Document",
@@ -165,8 +143,7 @@
               "RelativeToolTip": "MvcBlog\\Controllers\\BlogController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T02:05:14.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T02:05:14.522Z"
             }
           ]
         }

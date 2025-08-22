@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Index1";
+    var myMessage = "Hello World";
+}
+<!-- Ngày giờ dd/MM/yyyy HH:mm:ss -->
+<p>@DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss")</p>
+
+@for (var i = 10; i < 21; i++)
+{<p>Line @i</p>}
+
+<p>@myMessage</p>
+
+@RenderPage("Index.cshtml")  <!-- nhúng toàn bộ Index.cshtml -->

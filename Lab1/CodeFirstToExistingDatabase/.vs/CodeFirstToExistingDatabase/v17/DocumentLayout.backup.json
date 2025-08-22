@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToExistingDatabase\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{74B9455F-D89F-41A9-A9F3-E5C59ED12E5C}|CodeFirstToExistingDatabase\\CodeFirstToExistingDatabase.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab1\\codefirsttoexistingdatabase\\codefirsttoexistingdatabase\\bloggingmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{74B9455F-D89F-41A9-A9F3-E5C59ED12E5C}|CodeFirstToExistingDatabase\\CodeFirstToExistingDatabase.csproj|solutionrelative:codefirsttoexistingdatabase\\bloggingmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74B9455F-D89F-41A9-A9F3-E5C59ED12E5C}|CodeFirstToExistingDatabase\\CodeFirstToExistingDatabase.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToExistingDatabase\\codefirsttoexistingdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74B9455F-D89F-41A9-A9F3-E5C59ED12E5C}|CodeFirstToExistingDatabase\\CodeFirstToExistingDatabase.csproj|solutionrelative:codefirsttoexistingdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +54,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "BloggingModel.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToExistingDatabase\\CodeFirstToExistingDatabase\\BloggingModel.edmx",
+              "RelativeDocumentMoniker": "CodeFirstToExistingDatabase\\BloggingModel.edmx",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToExistingDatabase\\CodeFirstToExistingDatabase\\BloggingModel.edmx [Diagram1]",
+              "RelativeToolTip": "CodeFirstToExistingDatabase\\BloggingModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-08-11T15:54:20.021Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "App.config",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToExistingDatabase\\CodeFirstToExistingDatabase\\App.config",
               "RelativeDocumentMoniker": "CodeFirstToExistingDatabase\\App.config",
@@ -63,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BloggingContext.cs",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToExistingDatabase\\CodeFirstToExistingDatabase\\BloggingContext.cs",
               "RelativeDocumentMoniker": "CodeFirstToExistingDatabase\\BloggingContext.cs",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Post.cs",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToExistingDatabase\\CodeFirstToExistingDatabase\\Post.cs",
               "RelativeDocumentMoniker": "CodeFirstToExistingDatabase\\Post.cs",
@@ -89,12 +105,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToExistingDatabase\\CodeFirstToExistingDatabase\\Program.cs",
               "RelativeDocumentMoniker": "CodeFirstToExistingDatabase\\Program.cs",
-              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToExistingDatabase\\CodeFirstToExistingDatabase\\Program.cs*",
-              "RelativeToolTip": "CodeFirstToExistingDatabase\\Program.cs*",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\CodeFirstToExistingDatabase\\CodeFirstToExistingDatabase\\Program.cs",
+              "RelativeToolTip": "CodeFirstToExistingDatabase\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T17:11:09.541Z",

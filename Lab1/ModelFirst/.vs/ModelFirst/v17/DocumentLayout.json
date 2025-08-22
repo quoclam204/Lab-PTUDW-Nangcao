@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\ModelFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D0D8EDB-3321-4377-905A-6BC5953B1D60}|ModelFirst\\ModelFirst.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab1\\modelfirst\\modelfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0D8EDB-3321-4377-905A-6BC5953B1D60}|ModelFirst\\ModelFirst.csproj|solutionrelative:modelfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D0D8EDB-3321-4377-905A-6BC5953B1D60}|ModelFirst\\ModelFirst.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\ModelFirst\\modelfirst\\bloggingmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{3D0D8EDB-3321-4377-905A-6BC5953B1D60}|ModelFirst\\ModelFirst.csproj|solutionrelative:modelfirst\\bloggingmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
@@ -19,6 +15,14 @@
       "RelativeMoniker": "D:0:0:{3D0D8EDB-3321-4377-905A-6BC5953B1D60}|ModelFirst\\ModelFirst.csproj|solutionrelative:modelfirst\\bloggingmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3D0D8EDB-3321-4377-905A-6BC5953B1D60}|ModelFirst\\ModelFirst.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\ModelFirst\\modelfirst\\bloggingmodel.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{3D0D8EDB-3321-4377-905A-6BC5953B1D60}|ModelFirst\\ModelFirst.csproj|solutionrelative:modelfirst\\bloggingmodel.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0D8EDB-3321-4377-905A-6BC5953B1D60}|ModelFirst\\ModelFirst.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab1\\modelfirst\\modelfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0D8EDB-3321-4377-905A-6BC5953B1D60}|ModelFirst\\ModelFirst.csproj|solutionrelative:modelfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D0D8EDB-3321-4377-905A-6BC5953B1D60}|ModelFirst\\ModelFirst.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\ModelFirst\\modelfirst\\bloggingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D0D8EDB-3321-4377-905A-6BC5953B1D60}|ModelFirst\\ModelFirst.csproj|solutionrelative:modelfirst\\bloggingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,8 +31,8 @@
       "RelativeMoniker": "D:0:0:{3D0D8EDB-3321-4377-905A-6BC5953B1D60}|ModelFirst\\ModelFirst.csproj|solutionrelative:modelfirst\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D0D8EDB-3321-4377-905A-6BC5953B1D60}|ModelFirst\\ModelFirst.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\ModelFirst\\modelfirst\\bloggingmodel.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{3D0D8EDB-3321-4377-905A-6BC5953B1D60}|ModelFirst\\ModelFirst.csproj|solutionrelative:modelfirst\\bloggingmodel.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{3D0D8EDB-3321-4377-905A-6BC5953B1D60}|ModelFirst\\ModelFirst.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab1\\modelfirst\\modelfirst\\bloggingmodel.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{3D0D8EDB-3321-4377-905A-6BC5953B1D60}|ModelFirst\\ModelFirst.csproj|solutionrelative:modelfirst\\bloggingmodel.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BloggingModel.Context.cs",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\ModelFirst\\ModelFirst\\BloggingModel.Context.cs",
               "RelativeDocumentMoniker": "ModelFirst\\BloggingModel.Context.cs",
@@ -70,11 +74,12 @@
               "RelativeToolTip": "ModelFirst\\BloggingModel.Context.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T18:10:30.111Z"
+              "WhenOpened": "2025-08-11T18:10:30.111Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BloggingModel.Designer.cs",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\ModelFirst\\ModelFirst\\BloggingModel.Designer.cs",
               "RelativeDocumentMoniker": "ModelFirst\\BloggingModel.Designer.cs",
@@ -82,35 +87,37 @@
               "RelativeToolTip": "ModelFirst\\BloggingModel.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T18:04:52.112Z"
+              "WhenOpened": "2025-08-11T18:04:52.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BloggingModel.edmx [Diagram1]",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\ModelFirst\\ModelFirst\\BloggingModel.edmx",
               "RelativeDocumentMoniker": "ModelFirst\\BloggingModel.edmx",
               "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\ModelFirst\\ModelFirst\\BloggingModel.edmx [Diagram1]",
               "RelativeToolTip": "ModelFirst\\BloggingModel.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-08-11T17:25:52.22Z"
+              "WhenOpened": "2025-08-11T17:25:52.22Z",
+              "EditorCaption": " [Diagram1]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\ModelFirst\\ModelFirst\\Program.cs",
               "RelativeDocumentMoniker": "ModelFirst\\Program.cs",
               "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\ModelFirst\\ModelFirst\\Program.cs",
               "RelativeToolTip": "ModelFirst\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T16:55:44.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BloggingModel.cs",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\ModelFirst\\ModelFirst\\BloggingModel.cs",
               "RelativeDocumentMoniker": "ModelFirst\\BloggingModel.cs",
@@ -118,11 +125,12 @@
               "RelativeToolTip": "ModelFirst\\BloggingModel.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T18:12:32.62Z"
+              "WhenOpened": "2025-08-11T18:12:32.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "App.config",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\ModelFirst\\ModelFirst\\App.config",
               "RelativeDocumentMoniker": "ModelFirst\\App.config",
@@ -130,18 +138,20 @@
               "RelativeToolTip": "ModelFirst\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-08-11T18:04:13.057Z"
+              "WhenOpened": "2025-08-11T18:04:13.057Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "BloggingModel.edmx.sql ",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\ModelFirst\\ModelFirst\\BloggingModel.edmx.sql",
               "RelativeDocumentMoniker": "ModelFirst\\BloggingModel.edmx.sql",
               "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab1\\ModelFirst\\ModelFirst\\BloggingModel.edmx.sql",
               "RelativeToolTip": "ModelFirst\\BloggingModel.edmx.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-08-11T17:56:06.317Z"
+              "WhenOpened": "2025-08-11T17:56:06.317Z",
+              "EditorCaption": ""
             }
           ]
         }
