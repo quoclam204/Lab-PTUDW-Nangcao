@@ -1,0 +1,71 @@
+﻿@model MvcBlog.Post
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Tạo bài viết</h2>
+
+@using (Html.BeginForm("Create", "Posts", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+
+    <h4>Post</h4>
+    <hr />
+    @* Hiển thị lỗi tổng quát *@
+    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+
+    <!-- Title -->
+    <div class="form-group">
+        @Html.LabelFor(m => m.Title, new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Title, new
+            {
+                @class = "form-control",
+                maxlength = 50,
+                placeholder = "Nhập tiêu đề (≤ 50 ký tự)",
+                autocomplete = "off"
+            })
+            @Html.ValidationMessageFor(m => m.Title, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <!-- Content -->
+    <div class="form-group">
+        @Html.LabelFor(m => m.Content, new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextAreaFor(m => m.Content, 5, 60, new
+            {
+                @class = "form-control",
+                maxlength = 500,
+                placeholder = "Nội dung (≤ 500 ký tự)"
+            })
+            @Html.ValidationMessageFor(m => m.Content, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <!-- Blog -->
+    <div class="form-group">
+        @Html.LabelFor(m => m.BlogId, new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(m => m.BlogId,
+                (SelectList)ViewBag.BlogId,@* set ở PostsController.Create GET *@
+"-- Chọn blog --",
+new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.BlogId, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <!-- Actions -->
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <button type="submit" class="btn btn-primary">Create</button>
+            @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-default" })
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab4\\MvcBlog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92740BC8-08AC-4F9A-B297-F45FB4A3E75F}|MvcBlog\\MvcBlog.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab4\\mvcblog\\mvcblog\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92740BC8-08AC-4F9A-B297-F45FB4A3E75F}|MvcBlog\\MvcBlog.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab4\\mvcblog\\mvcblog\\bloggingmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{92740BC8-08AC-4F9A-B297-F45FB4A3E75F}|MvcBlog\\MvcBlog.csproj|solutionrelative:mvcblog\\bloggingmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92740BC8-08AC-4F9A-B297-F45FB4A3E75F}|MvcBlog\\MvcBlog.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab4\\MvcBlog\\mvcblog\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92740BC8-08AC-4F9A-B297-F45FB4A3E75F}|MvcBlog\\MvcBlog.csproj|solutionrelative:mvcblog\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92740BC8-08AC-4F9A-B297-F45FB4A3E75F}|MvcBlog\\MvcBlog.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab4\\mvcblog\\mvcblog\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{92740BC8-08AC-4F9A-B297-F45FB4A3E75F}|MvcBlog\\MvcBlog.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab4\\MvcBlog\\mvcblog\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{92740BC8-08AC-4F9A-B297-F45FB4A3E75F}|MvcBlog\\MvcBlog.csproj|solutionrelative:mvcblog\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92740BC8-08AC-4F9A-B297-F45FB4A3E75F}|MvcBlog\\MvcBlog.csproj|e:\\phattreinungdungweb-nangcao\\lab\\lab4\\mvcblog\\mvcblog\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{92740BC8-08AC-4F9A-B297-F45FB4A3E75F}|MvcBlog\\MvcBlog.csproj|E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab4\\MvcBlog\\mvcblog\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{92740BC8-08AC-4F9A-B297-F45FB4A3E75F}|MvcBlog\\MvcBlog.csproj|solutionrelative:mvcblog\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
@@ -63,19 +67,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BloggingModel.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab4\\MvcBlog\\MvcBlog\\BloggingModel.edmx",
+              "RelativeDocumentMoniker": "MvcBlog\\BloggingModel.edmx",
+              "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab4\\MvcBlog\\MvcBlog\\BloggingModel.edmx [Diagram1]",
+              "RelativeToolTip": "MvcBlog\\BloggingModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-09-02T04:55:34.37Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Post.cs",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab4\\MvcBlog\\MvcBlog\\Post.cs",
               "RelativeDocumentMoniker": "MvcBlog\\Post.cs",
               "ToolTip": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab4\\MvcBlog\\MvcBlog\\Post.cs",
               "RelativeToolTip": "MvcBlog\\Post.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T10:58:00.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Site.css",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab4\\MvcBlog\\MvcBlog\\Content\\Site.css",
               "RelativeDocumentMoniker": "MvcBlog\\Content\\Site.css",
@@ -88,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab4\\MvcBlog\\MvcBlog\\Views\\Blog\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcBlog\\Views\\Blog\\Index.cshtml",
@@ -101,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BlogController.cs",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab4\\MvcBlog\\MvcBlog\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "MvcBlog\\Controllers\\BlogController.cs",
@@ -114,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab4\\MvcBlog\\MvcBlog\\Views\\Blog\\Create.cshtml",
               "RelativeDocumentMoniker": "MvcBlog\\Views\\Blog\\Create.cshtml",
@@ -127,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab4\\MvcBlog\\MvcBlog\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MvcBlog\\Controllers\\HomeController.cs",
@@ -140,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\PhatTreinUngDungWeb-NangCao\\Lab\\Lab4\\MvcBlog\\MvcBlog\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MvcBlog\\Views\\Shared\\_Layout.cshtml",
